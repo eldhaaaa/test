@@ -15,3 +15,7 @@ void test() {
 void test2() {
     printf("This is another test function.\n");
 }
+
+void test3() {
+    printf("This is yet another test function.\n");
+}
